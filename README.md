@@ -58,3 +58,4 @@ NYC Citi Bike would benefit from marketing towards female and unknown riders to 
 The first additional vizualization I recommend would be a comparision between a summer month and a winter months.
 The second additional vizualization I would recommend is a break down of the type of customers utilization bikes. This could be helpful to deterime the composition of customers between residents and tourists.
 
+ [Link to NYC Citi Bike Dashboard](https://public.tableau.com/views/CitiBikeAnalysis_16587044910140/Usertype?:language=en-US&:display_count=n&:origin=viz_share_link)
