@@ -59,3 +59,12 @@ The first additional vizualization I recommend would be a comparision between a 
 The second additional vizualization I would recommend is a break down of the type of customers utilization bikes. This could be helpful to deterime the composition of customers between residents and tourists.
 
  [Link to NYC Citi Bike Dashboard](https://public.tableau.com/views/CitiBikeAnalysis_16587044910140/Usertype?:language=en-US&:display_count=n&:origin=viz_share_link)
+ 
+    
+---
+
+### **Contact**
+
+Email: [AshleyRae1219@gmail.com](mailto:ashleyrae1219@gmail.com)
+
+LinkedIn: [Ashley Morgan](https://www.linkedin.com/in/morganashleyr/)
